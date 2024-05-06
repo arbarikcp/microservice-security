@@ -8,6 +8,9 @@
     <artifactId>com.manning.mss.ch02.sample01</artifactId>
     <version>1.0</version>
 
+    <name>order-processing-service</name>
+    <description>order-processing-service</description>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
